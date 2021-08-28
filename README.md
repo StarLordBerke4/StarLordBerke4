@@ -11,6 +11,7 @@
 - :computer:Full Stack Developer ve Graphic Design olmak için çabalıyorum. 
 - :computer:Kendimi her alanda geliştirmeye özen gösteriyorum.
 
+
 ### 🔭 Kendimi Geliştirme Adına Yaptıklarım!
 - 🔭 Web projeleri yapmayı seviyorum. Çünkü interneti seviyorum! 
 - 🔭 Şu anda yazılım tarafında HTML,CSS,JavaScript,Php,SQL,Python gibi dilerde uzamnlaşmaya çalışıyorum.
