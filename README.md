@@ -10,6 +10,7 @@
 - :computer:DSC Ankara Hacı Bayram Veli Üniversitesi Core Team ekibinde yer almaktayım. 
 - :computer:Full Stack Developer ve Graphic Design olmak için çabalıyorum. 
 - :computer:Kendimi her alanda geliştirmeye özen gösteriyorum.
+- :computer:Yazılım ve Tasarım üzerine youtube ve udemy platformları için eğitim setleri hazırlamayı hedefliyorum.
 
 
 ### 🔭 Kendimi Geliştirme Adına Yaptıklarım!
@@ -27,7 +28,7 @@
 - 🎧 Yüzme sporu vazgeçilmez eğlencelerimden biri.
 - 🎧 Marvel/DC evrenlerinin hastasıyım bu yüzden çizgi roman okumayı seviyorum. Hayal güvümün gelişmesini sağlıyor.
 - 🎧 Resim yapmaktan büyük keyif alıyorum. Özellikle karakter tasarımı üzerine çalışmaktan.
-- 🎧 Boş zamanlarımda film ve dizi izlemeyi severim. Favori filmim "Lord of the Rings" favori dizilerim ise; "Mr.Robot ve Supernatural" dir.
+- 🎧 Boş zamanlarımda film ve dizi izlemeyi severim. Favori filmim "Lord of the Rings" favori dizilerim ise; "Mr.Robot ve Supernatural" dır.
 
 ### 📫 Bana Ulaşmak İsterseniz!
 - 📫 Bana ulaşmak isterseniz **berkemertozturk1997@gmail.com** adresini kullanabilirsiniz. 
