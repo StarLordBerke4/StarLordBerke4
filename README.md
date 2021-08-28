@@ -99,7 +99,7 @@
 <code><img height="40" width="40" src="https://brandslogos.com/wp-content/uploads/images/eclipse-logo-vector.svg"></code>
 
 </p>
-<h2 align="center">👩‍🖍📐 Graphic Design</h2>
+<h2 align="center">👩‍🖍📐 Graphic Design (Grafik Tasarım) </h2>
 
 <p align="center">
   
