@@ -14,9 +14,9 @@
 
 ### 🔭 Kendimi Geliştirme Adına Yaptıklarım!
 - 🔭 Web projeleri yapmayı seviyorum. Çünkü interneti seviyorum! 
-- 🔭 Şu anda yazılım tarafında HTML,CSS,JavaScript,Php,SQL,Python gibi dilerde uzamnlaşmaya çalışıyorum.
-- 🔭 Tasarım tarafında ise; Adobe photoshop, Adobe İllustrator, Adobe İndesing ve Canva gibi programlarda ustalaşmaya çalışıyorum.
-- 🔭 Ayrıca yazılımın yanında web sitesi yapmayı sağlayan wordpress, blogger, wix, weebly gibi platformları kullanarak web sitesi projeleri yapıyorum.
+- 🔭 Şu anda yazılım tarafında "HTML, CSS, JavaScript ,Php, SQL, Python" gibi dilerde uzamnlaşmaya çalışıyorum.
+- 🔭 Tasarım tarafında ise; "Adobe photoshop, Adobe İllustrator, Adobe İndesing ve Canva" gibi programlarda ustalaşmaya çalışıyorum.
+- 🔭 Ayrıca yazılımın yanında web sitesi yapmayı sağlayan "wordpress, blogger, wix, weebly" gibi platformları kullanarak web sitesi projeleri yapıyorum.
 - 🔭 Sektör tecrübesi kazanmak için bionluk ve fiverr gibi platformlarda web design / graphic design üzerine iş yapmaktayım.
 - 🔭 Son olarak youtube kanalım ve ilerde udemy platformu için hazırlayacağım eğitim setleri için kendimi sürekli geliştirmeye çalışıyorum.
 
