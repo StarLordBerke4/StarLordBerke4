@@ -8,7 +8,7 @@
 
 - Ayrıca; yazılıma da bayılıyorum. Boş vakitlerimde "full stack developer" olabilmek için sürekli yazılım, programlama ve tasarım konsun da kendimi geliştirmeye çalışıyorum. Böylece çok istediğim "web developer" olma hedefime daha da yakınlaşacağımı düşünüyorum. Bilgisayar oyunlarını ve bilgisayar sistemlerini araştırmayı seviyorum. Hayalim, tasarım ve yazılımı birleştirerek ortaya güzel projeler çıkarabilmek. Genelde sosyal medyayı, aktif kullanmaktayım. Tasarım, yazılım ve teknolojiye araştırmayı yeni bilgiler öğrenmeyi çok seviyorum. Ayrıca sıfır ve ikinci el bilgisayar toplamak isteyenlere yardımcı oluyorum.
 
-### 🔭 Benim Hakkımda
+### :computer:Benim Hakkımda
 - :computer:İstanbul Üniversitesi "Yönetim Bilişim Sistemleri" bölümü 2. sınıf öğrencisiyim. 
 - :computer:Atatürk Üniversitesi "Bilgisayar Programcılığı" bölümü 2. sınıf öğrencisiyim.
 - :computer:Anadolu Üniversitesi "Web Tasarımı ve Kodlama" bölümünü başarı ile tamamladım.
