@@ -2,10 +2,11 @@
  <a target="_blank"><img align="left" height="400" width="400" alt="𝙶𝙸𝙵" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"></a>
 <br/>
 
+### Web Tasarım , Web Geliştirme, Grafik Tasarım , SEO , Yazarlık , Wordpress/Blogger , İçerik Yöneticisi
+
 ### 🔭 Benim Hakkımda
 
 - Merhabalar ben Berke Mert Öztürk DSC Ankara Hacı Bayram Veli Üniversitesi ekibinde yer almaktayım. Yönetim Bilişim Sitemleri ve Bilgisayar Programcılığı öğrencisiyim. Ayrıca Grafik Tasarımcısı olarakta çalışmalar yapmaktayım. Adobe yazılımların büyük bir bölümüne hakim bir kullanıcısıyım. Tasarım ve konsept sanatlarına çok ilgi duyuyorum. Başlangıç seviyesindeyim ama kendimi zamanla daha fazla geliştirebilirim çünkü çok istekliyim.
-
 
 - Ayrıca; yazılıma da bayılıyorum. Boş vakitlerimde "full stack developer" olabilmek için sürekli yazılım, programlama ve tasarım konsun da kendimi geliştirmeye çalışıyorum. Böylece çok istediğim "web developer" olma hedefime daha da yakınlaşacağımı düşünüyorum. Bilgisayar oyunlarını ve bilgisayar sistemlerini araştırmayı seviyorum. Hayalim, tasarım ve yazılımı birleştirerek ortaya güzel projeler çıkarabilmek. Genelde sosyal medyayı, aktif kullanmaktayım. Tasarım, yazılım ve teknolojiye araştırmayı yeni bilgiler öğrenmeyi çok seviyorum. Ayrıca sıfır ve ikinci el bilgisayar toplamak isteyenlere yardımcı oluyorum.
 
