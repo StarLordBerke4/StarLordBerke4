@@ -1,6 +1,7 @@
 <h1 align="center">Merhaba 👋, Ben Berke Mert Öztürk </h1>
  <a target="_blank"><img align="left" height="400" width="400" alt="𝙶𝙸𝙵" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"></a>
 <br/>
+
 ### 🔭 Benim Hakkımda
 
 - Merhabalar ben Berke Mert Öztürk DSC Ankara Hacı Bayram Veli Üniversitesi ekibinde yer almaktayım. Yönetim Bilişim Sitemleri ve Bilgisayar Programcılığı öğrencisiyim. Ayrıca Grafik Tasarımcısı olarakta çalışmalar yapmaktayım. Adobe yazılımların büyük bir bölümüne hakim bir kullanıcısıyım. Tasarım ve konsept sanatlarına çok ilgi duyuyorum. Başlangıç seviyesindeyim ama kendimi zamanla daha fazla geliştirebilirim çünkü çok istekliyim.
