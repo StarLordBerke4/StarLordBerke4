@@ -235,7 +235,7 @@
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/XF0808">
+      <a href="https://github.com/JayantGoel001">
         <img src="https://avatars2.githubusercontent.com/u/35401210" width="100px;" alt="XF0808"/>
       </a>
       <br />
