@@ -1,5 +1,13 @@
 <h1 align="center">Merhaba 👋, Ben Berke Mert Öztürk </h1>
 
+### Beni Takip Edebilirsiniz:
+[![Subscribe On Youtube](https://img.shields.io/badge/Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC1Qt9-fWZpUZDTCSEzKvciA)
+[![Follow on Twitter](https://img.shields.io/badge/Follow-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/StarLordBerke)
+[![View Instagram](https://img.shields.io/badge/view-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/starlordberke/)
+[![Connect on LinkedIn](https://img.shields.io/badge/connect-%230077B5.svg?&style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/starlordberke/)
+[![View Site](https://img.shields.io/badge/View-white.svg?&style=for-the-badge&logo=safari&logoColor=blue)](https://teknomega4.blogspot.com)
+[![Follow on Medium](https://img.shields.io/badge/Follow-green?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@starlordberke)
+
  <a target="_blank"><img align="left" height="400" width="400" alt="𝙶𝙸𝙵" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"></a>
 <br/>
 
