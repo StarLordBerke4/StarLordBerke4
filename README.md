@@ -362,7 +362,7 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" />
  
 ### CPU 
-Intel® Comet Lake Core™ i7-10750H
+Intel® Comet Lake Core™ i7-10800H
 
 ### GPU
 nVIDIA® GeForce® RTX3060 Max-Performance 6GB GDDR6 192-Bit DX12
