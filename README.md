@@ -346,14 +346,32 @@
 </table>
 <!--END_SECTION:top-followers-->
 
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=StarLordBerke4" />
-<img align="right" src="https://img.shields.io/github/followers/StarLordBerke4?label=Follow&style=social" />
+![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=JayantGoel001&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)
 
 <br>
 
-![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=JayantGoel001&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=StarLordBerke4" />
+<img align="right" src="https://img.shields.io/github/followers/StarLordBerke4?label=Follow&style=social" />
 <br>
 
 ### Fedakarlık Yoksa ❤️ Zaferde Yoktur!
 
 ![footer](WEBP/footer.webp)
+## 𝐖𝐡𝐚𝐭 I 𝐂𝐚𝐧 𝐃𝐨
+
+<div>
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" />
+ 
+### 𝘉𝘶𝘪𝘭𝘥𝘪𝘯𝘨 𝘢𝘯 𝘌𝘊 𝘴𝘪𝘵𝘦 𝘧𝘰𝘳 𝘣𝘶𝘴𝘪𝘯𝘦𝘴𝘴
+𝘐𝘵 𝘪𝘴 𝘱𝘰𝘴𝘴𝘪𝘣𝘭𝘦 𝘵𝘰 𝘤𝘳𝘦𝘢𝘵𝘦 𝘢𝘯 𝘌𝘊 𝘴𝘪𝘵𝘦 𝘢𝘯𝘥 𝘪𝘵𝘴 𝘢𝘱𝘱𝘭𝘪𝘤𝘢𝘵𝘪𝘰𝘯. 𝘊𝘰𝘮𝘱𝘢𝘵𝘪𝘣𝘭𝘦 𝘸𝘪𝘵𝘩 𝘦𝘢𝘤𝘩 𝘱𝘭𝘢𝘵𝘧𝘰𝘳𝘮.
+
+### Speedy 𝘞𝘦𝘣 𝘱𝘳𝘰𝘥𝘶𝘤𝘵𝘪𝘰𝘯
+𝘞𝘦 𝘤𝘢𝘯 𝘢𝘭𝘴𝘰 𝘥𝘦𝘷𝘦𝘭𝘰𝘱 𝘏𝘗, 𝘓𝘗, 𝘢𝘯𝘥 𝘞𝘌𝘉 𝘴𝘦𝘳𝘷𝘪𝘤𝘦𝘴.
+
+### 𝘗𝘊 𝘢𝘯𝘥 𝘚𝘗 𝘢𝘱𝘱𝘭𝘪𝘤𝘢𝘵𝘪𝘰𝘯𝘴
+𝘐𝘵 𝘤𝘢𝘯 𝘣𝘦 𝘱𝘳𝘰𝘥𝘶𝘤𝘦𝘥 𝘪𝘯𝘦𝘹𝘱𝘦𝘯𝘴𝘪𝘷𝘦𝘭𝘺 𝘢𝘯𝘥 𝘲𝘶𝘪𝘤𝘬𝘭𝘺. 𝘞𝘦 𝘢𝘳𝘦 𝘢𝘭𝘴𝘰 𝘨𝘰𝘰𝘥 𝘢𝘵 𝘴𝘤𝘳𝘢𝘱𝘪𝘯𝘨 𝘸𝘩𝘦𝘯 𝘪𝘵 𝘤𝘰𝘮𝘦𝘴 𝘵𝘰 𝘗𝘊𝘴.
+
+### 𝘍𝘪𝘯𝘢𝘯𝘤𝘦 𝘪𝘴 𝘰𝘶𝘳 𝘴𝘱𝘦𝘤𝘪𝘢𝘭𝘵𝘺, 𝘞𝘦 𝘢𝘭𝘦𝘢𝘥𝘺 𝘨𝘰𝘵 𝘭𝘰𝘵𝘴 𝘰𝘧 𝘢𝘤𝘩𝘪𝘦𝘷𝘦𝘮𝘦𝘯𝘵𝘴
+𝘐𝘯 𝘤𝘳𝘺𝘱𝘵𝘰𝘤𝘶𝘳𝘳𝘦𝘯𝘤𝘪𝘦𝘴, 𝘍𝘰𝘳𝘦𝘹 𝘢𝘯𝘥 𝘴𝘵𝘰𝘤𝘬𝘴, 𝘸𝘦 𝘤𝘢𝘯 𝘤𝘳𝘦𝘢𝘵𝘦 𝘢𝘯𝘥 𝘢𝘯𝘢𝘭𝘺𝘻𝘦 𝘵𝘰𝘰𝘭𝘴 𝘢𝘵 𝘢 𝘩𝘪𝘨𝘩 𝘭𝘦𝘷𝘦𝘭.
+
+</div>
