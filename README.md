@@ -353,7 +353,7 @@
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=StarLordBerke4" />
 <img align="right" src="https://img.shields.io/github/followers/StarLordBerke4?label=Follow&style=social" />
 <br>
-## Sevdiğim Sözler
+### Sevdiğim Sözler
 
 ### Fedakarlık Yoksa ❤️ Zaferde Yoktur!
 
