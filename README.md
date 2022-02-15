@@ -82,6 +82,7 @@
 
  <h2 align="center">🤝Sosyal Medya Hesaplarım </h2>
 <p align="left">
+<a href="https://twitter.com/StarLordBerke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akin0zgen" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/starlordberke/" target="blank"><img align="center" src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png" height="30" width="30" /></a>
 <a href="https://www.instagram.com/starlordberke/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png"  height="30" width="30" /></a>
 <a href="https://starlordberke.medium.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" height="30" width="40" />
