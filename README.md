@@ -159,7 +159,7 @@
    
 </p>
 
-# My followers
+# Takipçilerim
 
 <!--START_SECTION:top-followers-->
 <table>
