@@ -349,9 +349,11 @@
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=StarLordBerke4" />
 <img align="right" src="https://img.shields.io/github/followers/StarLordBerke4?label=Follow&style=social" />
 
-
+<br>
 
 ![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=JayantGoel001&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)
+<br>
 
+### Fedakarlık Yoksa ❤️ Zaferde Yoktur!
 
-
+![footer](WEBP/footer.webp)
