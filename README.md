@@ -349,4 +349,11 @@
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=StarLordBerke4" />
 <img align="right" src="https://img.shields.io/github/followers/StarLordBerke4?label=Follow&style=social" />
 
-![footer](https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/footer.png)
+![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=JayantGoel001&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)
+
+<p align="center">
+  <img height="150" width="150" src="WEBP/left.webp">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JayantGoel001&theme=dark&hide_border=true"/>
+  <img height="150" width="150" src="WEBP/right.webp">
+</p>
+
