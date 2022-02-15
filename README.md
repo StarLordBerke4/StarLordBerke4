@@ -338,4 +338,7 @@
 </table>
 <!--END_SECTION:top-followers-->
 
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=StarLordBerke4" />
+<img align="right" src="https://img.shields.io/github/followers/StarLordBerke4=Follow&style=social" />
+
 ![footer](https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/footer.png)
