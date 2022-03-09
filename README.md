@@ -375,4 +375,5 @@ nVIDIA® GeForce® RTX3060 Max-Performance 6GB GDDR6 192-Bit DX12
 
 </div>
 <img src="http://www.fubiz.net/wp-content/uploads/2017/03/cityillustrationsdigital6.jpg" alt="Image from fubiz.net" />
+<br>
 ![image](https://github.com/StarLordBerke4/StarLordBerke4/blob/main/footer.jpg)
