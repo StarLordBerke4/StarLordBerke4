@@ -15,11 +15,14 @@
 /></a>
 <a href="https://www.codewars.com/users/e-k-eyupoglu" ><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey" height=25></a>
 <a href="https://stackoverflow.com/users/15170972/hirelax" ><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" height=25></a>
-<a><img src="https://img.shields.io/badge/eyup.exe-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" height=25></a>
 <a href="https://forum.freecodecamp.org/u/e.k.eyupoglu" ><img src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green" height=25></a>
 <a href="https://eyupkaganeyupoglu.medium.com/" ><img src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white" height=25></a> 
 <a href="https://github.com/e-k-eyupoglu" ><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" height=25></a> 
 </p>
+<a><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" height=25></a> 
+<a><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height=25></a><br>
+<a><img src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" height=25></a> 
+<a><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" height=25></a>
 
  <a target="_blank"><img align="left" height="400" width="400" alt="𝙶𝙸𝙵" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"></a>
 <br/>
