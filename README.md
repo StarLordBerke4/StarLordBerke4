@@ -67,7 +67,7 @@
 
 ***:computer:	DON'T REPEAT YOURSELF (KENDİNİ TEKRAR ETME)***
 <br>
-
+![Astronot](https://user-images.githubusercontent.com/43827959/121675693-6a3d5980-cabc-11eb-9f39-fe7999c861f7.gif)
 ***Bölümüm Bilgisayar Mühendisliği olmasada ideallerimden asla vazgeçmeden çabalamaya devam edeceğim.:medal_military:***
 
 
