@@ -157,7 +157,7 @@
 ➡️ [daha fazla blog yazısı...](https://teknomega4.blogspot.com/)
   
   </p>
-
+<img align="right" height="250" width="400" alt="GIF" src="GIF/image.gif">
 <p>
   
 ### 📺 En Yeni YouTube Videoları 
