@@ -1,4 +1,9 @@
 <h1 align="center">Merhaba 👋, Ben Berke Mert Öztürk </h1>
+<h1 align="center">
+  <img src="GIF/Earth.gif" width="24px">
+  𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
+  <img src="GIF/Hi.gif" width="40px" />
+</h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2307F738&size=22&center=true&vCenter=true&lines=Hello+There!+;I'm+Berke+Mert+Öztürk...;I'm+Curious+in+Web+Developer+Web+Designer!)](https://git.io/typing-svg)
 
