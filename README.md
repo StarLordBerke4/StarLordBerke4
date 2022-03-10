@@ -101,7 +101,6 @@
 
 <p align="center">
 <a href="https://github.com/StarLordBerke4">
-<img src="https://komarev.com/ghpvc/?username=StarLordBerke4=flat-square&color=7d8cbe&label=Profile+Views"></a>
 <a href="https://github.com/StarLordBerke4?tab=repositories">
 <img src="https://badges.pufler.dev/repos/StarLordBerke4?style=flat-square&color=7d8cbe&logo=github"></a> <br>
 <a href="https://github.com/StarLordBerke4?tab=followers"><img src="https://img.shields.io/github/followers/e-k-eyupoglu?style=social"></a> <br>
