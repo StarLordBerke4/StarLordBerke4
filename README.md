@@ -17,7 +17,8 @@
 <a href="https://stackoverflow.com/users/15170972/hirelax" ><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" height=25></a>
 <a href="https://forum.freecodecamp.org/u/e.k.eyupoglu" ><img src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green" height=25></a>
 <a href="https://eyupkaganeyupoglu.medium.com/" ><img src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white" height=25></a> 
-<a href="https://github.com/e-k-eyupoglu" ><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" height=25></a> 
+<a href="https://github.com/e-k-eyupoglu" ><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" height=25></a>
+<a href="https://linktr.ee/e.k.eyupoglu" ><img src="https://img.shields.io/static/v1?label=&message=Linktree&style=flat-square&logo=linktree&labelColor=34cc8c&color=34cc8c&logoColor=ffffff" height=25></a>
 </p>
 
  <a target="_blank"><img align="left" height="400" width="400" alt="𝙶𝙸𝙵" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"></a>
