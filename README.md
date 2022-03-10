@@ -12,6 +12,7 @@
   <a href="https://www.artstation.com/mertbalkan7" target="_blank" rel="nofollow"><img alt="Mert's Artstation" src="https://camo.githubusercontent.com/98b30855da3ae8848a668b1cf87f892146be7c900e4036bd96fda770efc91e9a/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d41727453746174696f6e26636f6c6f723d323232323232266c6f676f3d41727453746174696f6e266c6f676f436f6c6f723d313341464630266c6162656c3d" /></a>
   <a href="https://steamcommunity.com/id/StarLordBerke/" target="_blank" rel="nofollow"><img alt="Mert's Steam" src="https://camo.githubusercontent.com/816a28a81b935f09bbe32600de30a1c29ea2bbc63b932eaeb7c00d2726e22971/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d537465616d26636f6c6f723d303030303030266c6f676f3d537465616d266c6f676f436f6c6f723d464646464646266c6162656c3d"
 /></a>
+![Astronot](https://user-images.githubusercontent.com/43827959/121675693-6a3d5980-cabc-11eb-9f39-fe7999c861f7.gif)
 
  <a target="_blank"><img align="left" height="400" width="400" alt="𝙶𝙸𝙵" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"></a>
 <br/>
