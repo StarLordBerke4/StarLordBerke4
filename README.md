@@ -7,6 +7,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2307F738&size=22&center=true&vCenter=true&lines=Hello+There!+;I'm+Berke+Mert+Öztürk...;I'm+Curious+in+Web+Developer+Web+Designer!)](https://git.io/typing-svg)
 
+![footer](https://github.com/StarLordBerke4/StarLordBerke4/blob/main/footer.jpg)
+
 ### ❤️Beni Takip Edebilirsiniz:
 [![Subscribe On Youtube](https://img.shields.io/badge/Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC1Qt9-fWZpUZDTCSEzKvciA)
 [![Follow on Twitter](https://img.shields.io/badge/Follow-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/StarLordBerke)
