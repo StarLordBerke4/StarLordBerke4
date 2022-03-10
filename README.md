@@ -142,6 +142,8 @@
 </p>
 
 <p>
+ 
+<img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" width='200'/> 
   
   ### 📕 Son Blog Yazıları
 
