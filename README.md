@@ -1,11 +1,11 @@
 <h1 align="center">Merhaba 👋, Ben Berke Mert Öztürk </h1>
 <h1 align="center">
-  <img src="https://github.com/StarLordBerke4/JayantGoel001/blob/master/GIF/Earth.gif" width="24px">
+  <img src="https://github.com/StarLordBerke4/StarLordBerke4/blob/main/GIF/Earth.gif">
   𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
-  <img src="https://github.com/StarLordBerke4/JayantGoel001/blob/master/GIF/Hi.gif" width="40px" />
+  <img src="https://github.com/StarLordBerke4/StarLordBerke4/blob/main/GIF/Hi.gif" />
 </h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2307F738&size=22&center=true&vCenter=true&lines=Hello+There!+;I'm+Berke+Mert+Öztürk...;I'm+Curious+in+Web+Developer+Web+Designer!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2307F738&size=22&center=true&vCenter=true&lines=Hello+There!+;I'm+Berke+Mert+Öztürk...;I'm+Curious+in+Web+Developer+and+Web+Designer!)](https://git.io/typing-svg)
 
 ![footer](https://github.com/StarLordBerke4/StarLordBerke4/blob/main/footer.jpg)
 
