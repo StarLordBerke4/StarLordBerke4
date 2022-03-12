@@ -50,9 +50,9 @@
 - :computer:İstanbul Üniversitesi "Yönetim Bilişim Sistemleri" bölümü 2. sınıf öğrencisiyim. 
 - :computer:Atatürk Üniversitesi "Bilgisayar Programcılığı" bölümü 2. sınıf öğrencisiyim.
 - :computer:Anadolu Üniversitesi "Web Tasarımı ve Kodlama" bölümünü başarı ile tamamladım.
-- :computer:Ankara Hacı Bayram Veli Üniversitesi "Turizm İşletmeciliği" bölümü 4.snıf öğrencisiyim.
+- :computer:Ankara Hacı Bayram Veli Üniversitesi "Turizm İşletmeciliği" bölümü 4.sınıf öğrencisiyim.
 - :computer:DSC Ankara Hacı Bayram Veli Üniversitesi Core Team ekibinde yer almaktayım. 
-- :computer:Full Stack Developer ve Graphic Design olmak için çabalıyorum. 
+- :computer:"Full Stack Developer ve Graphic Designer" olmak için çabalıyorum. 
 - :computer:Kendimi her alanda geliştirmeye özen gösteriyorum.
 - :computer:Yazılım ve Tasarım üzerine youtube ve udemy platformları için eğitim setleri hazırlamayı hedefliyorum.
 
@@ -83,7 +83,7 @@
 - 🤝 Ayrıca yazılım, tasarım, teknoloji ve eğitim üzerine içerik ürettiğim bir youtube kanalım var. Kanalımın adı "Game Mega" **https://www.youtube.com/c/GameMega** takip etmeyi unutmayın.
 
 ### 💪 Sevdiğim Sözler!
-- 💪 Fedakarlık yoksa; zaferde yoktur.
+- 💪 Fedakarlık yoksa; zaferde yoktur.🏆
 
 ***:computer:	DON'T REPEAT YOURSELF (KENDİNİ TEKRAR ETME)***
 <br>
