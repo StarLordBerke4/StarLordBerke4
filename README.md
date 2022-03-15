@@ -180,6 +180,10 @@
 - [HTML Dersleri Bölüm 1: HTML Tarihçesi](https://sibermega4.blogspot.com/2021/08/html-dersleri-bolum-1-html-tarihcesi_94.html)
 - [Samsung Galaxy A21S İncelemesi!](https://teknomega4.blogspot.com/2021/08/samsung-galaxy-a21s-incelemesi.html)
 - [FPS Oyunları için En İyi Nvidia Performans Ayarları Nasıl Yapılır?](https://teknomega4.blogspot.com/2021/07/fps-oyunlar-icin-en-iyi-nvidia.html)
+- [Web Sitesi Hızlandırma Yöntemleri | Web Sitenizi Hızlandırın!](https://teknomega4.blogspot.com/2022/02/web-sitesi-hzlandrma-yontemleri-web.html)
+- [Web Sitesine Kod Kutusu Ekleme](https://teknomega4.blogspot.com/2022/02/web-sitesine-kod-kutusu-ekleme.html)
+- [2021 Senesinde PlayStation 3 Oyun Konsolu satın alınır mı?](https://teknomega4.blogspot.com/2021/11/2021-senesinde-playstation-3-oyun.html)
+- [2021 senesinde Xbox One konsolu satın alınır mı?](https://teknomega4.blogspot.com/2021/10/2021-senesinde-xbox-one-konsolu-satn.html)  
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [daha fazla blog yazısı...](https://teknomega4.blogspot.com/)
