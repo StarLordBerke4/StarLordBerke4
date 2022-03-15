@@ -195,6 +195,10 @@
 - [Steam Profili Nasıl Özelleştirilir? | Hareketli Ekran Görüntüsü Vitrini Nasıl Tasarlanır?](https://youtu.be/VO19OjXq6fk)
 - [YouTube ABONE OL Animasyonu Nasıl Yapılır? | CAMTASİA & CANVA](https://youtu.be/apQLeYDJzW8)
 - [Youtube Kanal Resmi (Banner) Nasıl Yapılır?](https://youtu.be/Xx-X0Ln7DkA)
+- [Ücretsiz Microsoft Ofis Yazılımları Kurulumu | Öğrenci ve Öğretmenler İçin!](https://youtu.be/CxYSy_ElrNg)
+- [Mürekkep Pedinin Kullanım Ömrü Dolmuştur Hatası Nasıl Çözülür? | (L130, L210, L310, L350)](https://youtu.be/l_PfbQe7MtY)
+- [Monster Pusat V8 Gaming Mouse - İnceleme & Kutu Açılım](https://youtu.be/LKcjN44GDcg)
+- [Samsung Galaxy A21S Detaylı İnceleme | Galaxy A21S Kutusundan Çıkıyor](https://youtu.be/npskr8yOxHY)  
 <!-- YOUTUBE:END -->
 
 ➡️ [daha fazla video...](https://www.youtube.com/c/GameMega)
