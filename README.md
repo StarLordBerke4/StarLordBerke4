@@ -208,6 +208,21 @@
 ➡️ [daha fazla video...](https://www.youtube.com/c/GameMega)
    
 </p>
+  
+  ### ❤️ En Yeni Bilgi İçerikli İnstagram Gönderileri 
+
+<!-- İNSTAGRAM:START -->
+- [En Çok Kullanılan Programlama Dilleri Nedir?](https://www.instagram.com/p/CXOX3oFj_SH/)
+- [Algoritma Nedir?](https://www.instagram.com/p/CW3dyxFA2DK/)
+- [Tor Browser Nedir?](https://www.instagram.com/p/CW0VtGggc6D/)
+- [Termux Nedir?](https://www.instagram.com/p/CT7ZoujDsqo/)
+- [Git Nedir?](https://www.instagram.com/p/CT7Yt3Kj-QB/)
+- [Trojan Nedir?](https://www.instagram.com/p/CT7NAtpjmXs/) 
+<!-- İNSTAGRAM:END -->
+
+➡️ [daha fazla gönderi için...](https://www.instagram.com/gamemega4/)
+   
+</p>
 
 ![](https://img.shields.io/badge/Network-BitCoin-informational?style=flat&logo=bitcoin&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Network-Ethereum-informational?style=flat&logo=ethereum&logoColor=white&color=3bac3a)
