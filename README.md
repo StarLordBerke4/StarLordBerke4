@@ -25,7 +25,7 @@ const Ozturk = {
 
 - 📫 Mail **berkemertozturk1997@gmail.com**
 
-<h3 align="center">Other Ways to Reach Me:</h3>
+<h3 align="center">Bana Ulaşmanın Diğer Yolları:</h3>
 
 <h4 align="left">Sosyal Medya</h4>
 <p align="left">
