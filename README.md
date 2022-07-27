@@ -165,7 +165,7 @@
 <p align="center">
   
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png"></code>
-<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Adobe_Illustrator_Icon_%28CS6%29.svg></code>
+<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/archive/4/4e/20140406223627%21Adobe_Illustrator_Icon_%28CS6%29.svg></code>
 <code><img height="40" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIbMt0PbIuYZFwggnJtEI2ROZ9IuOwWjMCZBE6DIlHcYD1Lg-mX5az3Nd7uHJHIfUyztY&usqp=CAU"></code>
 
 </p>
