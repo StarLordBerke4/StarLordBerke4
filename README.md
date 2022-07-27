@@ -138,6 +138,8 @@
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png"></code>
 <code><img height="40" width="40" src="https://www.flaticon.com/svg/static/icons/svg/1216/1216733.svg"></code>
+<code><img height="40" width="40" src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_3,f_auto,g_center,h_175,q_auto:good,w_175/v1/gcs/platform-data-dsc/events/flutterlogo_Ni49mu8.png"></code>
+<code><img height="40" width="40" src="https://i.pinimg.com/originals/9b/fc/ab/9bfcabbfd10b16693e622045fe6b812d.png"></code>
 </p>
 
 <h2 align="center">⚡ Database (Veri Tabanı) </h2>
@@ -162,8 +164,8 @@
 
 <p align="center">
   
-<code><img height="40" width="40" src="https://image.flaticon.com/icons/png/512/552/552222.png"></code>
-<code><img height="40" width="40" src="https://image.flaticon.com/icons/png/512/552/552220.png"></code>
+<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png"></code>
+<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Adobe_Illustrator_Icon_%28CS6%29.svg></code>
 <code><img height="40" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIbMt0PbIuYZFwggnJtEI2ROZ9IuOwWjMCZBE6DIlHcYD1Lg-mX5az3Nd7uHJHIfUyztY&usqp=CAU"></code>
 
 </p>
