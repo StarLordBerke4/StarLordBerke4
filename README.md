@@ -7,6 +7,24 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2307F738&size=22&center=true&vCenter=true&lines=Hello+There!+;I'm+Berke+Mert+Öztürk...;I'm+Web+Developer+and+Web+Designer!)](https://git.io/typing-svg)
 
+<h3 align="center">Web Developer and Web Designer</h3>
+
+``` javascript
+const Ozturk = {
+  fullName: "Berke Mert Öztürk",
+  age: 24,
+  place: "Ankara,Ankara, Turkey",
+  pronouns: "he" || "him",
+  interests: ["Web Development", "Web Designe", "Beginner Mobile Development"],
+  otherInterests: ["Video Oyunları", "Astronomi", "3D Modelleme", "Classic History"],
+  mbti: "INTP",
+}
+```
+
+- 💬 Bana sor **Her türlü soruyu sorabilirsiniz..**
+
+- 📫 Mail **berkemertozturk1997@gmail.com**
+
 ![footer](https://github.com/StarLordBerke4/StarLordBerke4/blob/main/footer.jpg)
 
 ### ❤️Beni Takip Edebilirsiniz:
