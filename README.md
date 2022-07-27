@@ -15,8 +15,8 @@ const Ozturk = {
   age: 24,
   place: "Ankara,Ankara, Turkey",
   pronouns: "he" || "him",
-  interests: ["Web Development", "Web Designe", "Beginner Mobile Development"],
-  otherInterests: ["Video Oyunları", "Astronomi", "3D Modelleme", "Classic History"],
+  interests: ["Web Development", "Web Designer", "Beginner Mobile Development"],
+  otherInterests: ["Video Oyunları", "Astronomi", "3D Modelleme", "Kamp ve Seyahat"],
   mbti: "INTP",
 }
 ```
@@ -24,6 +24,19 @@ const Ozturk = {
 - 💬 Bana sor **Her türlü soruyu sorabilirsiniz..**
 
 - 📫 Mail **berkemertozturk1997@gmail.com**
+
+<h3 align="center">Other Ways to Reach Me:</h3>
+
+<h4 align="left">Sosyal Medya</h4>
+<p align="left">
+<a href="https://www.linkedin.com/in/starlordberke/"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="30"/></a>
+<a href="https://starlordberke.medium.com/"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/medium-47-433328.png" alt="medium" height="30" width="30"/></a>
+
+<h4 align="left">Teknoloji Toplulukları</h4>
+<p align="left">
+<a href=""><img align="center" src="https://juststickers.in/wp-content/uploads/2019/07/stackoverflow.png" alt="stackoverflow" height="30" width="30"/></a>
+<a href=""><img align="center" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/160_Hackerrank-512.png" alt="hackerrank" height="30" width="30"/></a>
+<a href=""><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/npm/npm-original-wordmark.svg" alt="npm" height="30" width="30"/></a>
 
 ![footer](https://github.com/StarLordBerke4/StarLordBerke4/blob/main/footer.jpg)
 
