@@ -149,7 +149,7 @@ const Ozturk = {
 
 
 ![https://raw.githubusercontent.com/akinozgen/akinozgen/output/github-contribution-grid-snake.gif](https://raw.githubusercontent.com/akinozgen/akinozgen/output/github-contribution-grid-snake.gif)
-
+![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
  <h2 align="center">🤝Sosyal Medya Hesaplarım </h2>
 <p align="left">
