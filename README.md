@@ -7,8 +7,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2307F738&size=22&center=true&vCenter=true&lines=Hello+There!+;I'm+Berke+Mert+Öztürk...;I'm+Web+Developer+and+Web+Designer!)](https://git.io/typing-svg)
 
-[![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Merhaba%20👋%20Ben%20Berke Mert%20Öztürk&width=1200&height=300)](https://github.com/Akshay090/svg-banners)
-
 <h3 align="center">Web Developer and Web Designer</h3>
 
 ``` javascript
