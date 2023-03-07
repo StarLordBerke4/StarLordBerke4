@@ -145,7 +145,10 @@ const Ozturk = {
 <a href="https://github.com/StarLordBerke4"><img align=center src="https://github-readme-stats.vercel.app/api?username=StarLordBerke4&show_icons=true&theme=custom&bg_color=111111&text_color=ffffff&icon_color=7d8cbe&title_color=7d8cbe&border_color=7d8cbe" width=500></a> <br>
 <a href="https://github.com/StarLordBerke4"><img align=center src="https://github-readme-streak-stats.herokuapp.com/?user=e-k-eyupoglu&background=111111&text_color=ffffff&fire=7d8cbe&sideNums=7d8cbe&border=7d8cbe&dates=ffffff&currStreakNum=7d8cbe&ring=7d8cbe&stroke=7d8cbe&currStreakLabel=7d8cbe&sideLabels=7d8cbe" width=500></a>
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=StarLordBerke4&theme=react-dark&hide_border=true&area=true)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=StarLordBerke4&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/Jurredr/github-widgetbox)
+ 
+ [![ github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=StarLordBerke4&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+</div>
 
 ![https://raw.githubusercontent.com/akinozgen/akinozgen/output/github-contribution-grid-snake.gif](https://raw.githubusercontent.com/akinozgen/akinozgen/output/github-contribution-grid-snake.gif)
 ![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
@@ -163,7 +166,7 @@ const Ozturk = {
 ![My Skills](https://skillicons.dev/icons?i=bootstrap,cs,css,dart,dotnet,flutter,html,java,js,php,py)
 
 
-<h2 align="center">Database</h2>
+<h2 align="center">Database (Veri Tabanı)</h2>
 
 ![My Skills](https://skillicons.dev/icons?i=mysql,postgres)
 <img src="https://user-images.githubusercontent.com/75336900/214643444-15a6b822-2439-45e0-8cfb-d74c95f1dfc6.png" height=50>
@@ -172,7 +175,7 @@ const Ozturk = {
 
 ![My Skills](https://skillicons.dev/icons?i=eclipse,idea,androidstudio,visualstudio,vscode)
 
-<h2 align="center">Tasarım Araçları</h2>
+<h2 align="center">Graphic Design (Grafik Tasarım)</h2>
 
 ![My Skills](https://skillicons.dev/icons?i=figma,ps,ai)
 <img src="https://logos-world.net/wp-content/uploads/2021/11/Canva-New-Logo.png" height=50>
