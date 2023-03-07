@@ -123,9 +123,9 @@ const Ozturk = {
 
 
 <p align="center">
-  <img src= "https://gpvc.arturio.dev/berkcangumusisik" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜"> •  
-  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/berkcangumusisik?label=Followers&style=social"> •   
-  <img src="https://img.shields.io/github/stars/berkcangumusisik?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
+  <img src= "https://gpvc.arturio.dev/StarLordBerke4" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜"> •  
+  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/StarLordBerke4?label=Followers&style=social"> •   
+  <img src="https://img.shields.io/github/stars/StarLordBerke4?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
 </p>
 
 <h1 align="center"> 💻Berke Mert Öztürk</h1>
