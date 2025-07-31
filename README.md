@@ -66,16 +66,15 @@ const Ozturk = {
  <a target="_blank"><img align="left" height="400" width="400" alt="𝙶𝙸𝙵" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"></a>
 <br/>
 
-### Web Tasarım , Web Geliştirme, Grafik Tasarım , SEO , Yazarlık , Wordpress/Blogger , İçerik Yöneticisi , Eğitmen
+### Web Geliştirici & Web Tasarımcı & Grafik Tasarımcı & UI/UX Tasarımcı & İçerik Üretici & Sosyal Medya Yönetimi & SEO & Wordpress & Blogger & YBS (MIS) & Eğitmen & Bilgisayar ve Öğretim Teknolojileri Öğretmeni (BÖTE)
 
 ### 🔭 Benim Hakkımda
 
-- Merhabalar ben Berke Mert Öztürk DSC Ankara Hacı Bayram Veli Üniversitesi ekibinde yer almaktayım. Yönetim Bilişim Sitemleri ve Bilgisayar Programcılığı öğrencisiyim. Ayrıca Grafik Tasarımcısı olarakta çalışmalar yapmaktayım. Adobe yazılımların büyük bir bölümüne hakim bir kullanıcısıyım. Tasarım ve konsept sanatlarına çok ilgi duyuyorum. Başlangıç seviyesindeyim ama kendimi zamanla daha fazla geliştirebilirim çünkü çok istekliyim.
+- İstanbul Üniversitesi Yönetim Bilişim Sistemleri (MIS) bölümünde lisans eğitimimin son sınıfındayım. Aynı zamanda pedagojik formasyon sürecinden geçerek Bilgisayar ve Öğretim Teknolojileri Öğretmeni (BÖTE) unvanını edinmekteyim. Ayrıca Grafik Tasarımcısı olarakta çalışmalar yapmaktayım. Adobe yazılımların büyük bir bölümüne hakim bir tasarımcıyım. Web geliştirme, UI/UX tasarımı ve grafik tasarım alanlarında kendimi geliştiriyor, modern teknolojileri takip ederek hem teknik hem de görsel yönü kuvvetli projeler üretmeye odaklanıyorum. Yazılım ve tasarımı bir araya getiren disiplinler arası yaklaşımları benimsiyorum.
 
-- Ayrıca; yazılıma da bayılıyorum. Boş vakitlerimde "full stack developer" olabilmek için sürekli yazılım, programlama ve tasarım konsun da kendimi geliştirmeye çalışıyorum. Böylece çok istediğim "web developer" olma hedefime daha da yakınlaşacağımı düşünüyorum.
+- Öğrenmeye açık, çözüm odaklı ve takım çalışmasına yatkın bir yapıya sahibim. Proje yönetimi, içerik üretimi, sosyal medya yönetimi, SEO ve WordPress altyapılı sistemlerde aktif olarak çalışıyorum. Aynı zamanda Blogger platformunda uzun süredir içerik üretiyorum. Ayrıca; yazılıma da bayılıyorum. Boş vakitlerimde "Full Stack Developer" olabilmek için sürekli yazılım, programlama ve tasarım konsun da kendimi geliştirmeye çalışıyorum. Böylece çok istediğim "Web Developer" olma hedefime daha da yakınlaşacağımı düşünüyorum.
 
-
-- Bilgisayar oyunlarını ve bilgisayar sistemlerini araştırmayı seviyorum. Hayalim, tasarım ve yazılımı birleştirerek ortaya güzel projeler çıkarabilmek. Genelde sosyal medyayı, aktif kullanmaktayım. Tasarım, yazılım ve teknolojiye araştırmayı yeni bilgiler öğrenmeyi çok seviyorum. Ayrıca sıfır ve ikinci el bilgisayar toplamak isteyenlere yardımcı oluyorum.
+- Teknolojiye olan ilgim yalnızca mesleki değil, aynı zamanda kişisel bir tutkudur. Bilgisayar donanımları ve sistem toplama konularında bilgi sahibiyim. Yeni donanım teknolojilerini yakından takip ediyor, bilgisayar kurulumları ve bileşen seçimi konusunda çevremdekilere danışmanlık yapıyorum. Öte yandan, dijital oyunlara özel bir ilgim var. Özellikle Blizzard Entertainment tarafından geliştirilen Diablo serisiyle uzun yıllardır ilgileniyor, bu alandaki oyun kültürünü yakından takip ediyorum.
 
 ### :computer:Eğitim / Kariyer
 - :computer:İstanbul Üniversitesi "Yönetim Bilişim Sistemleri" bölümü 2. sınıf öğrencisiyim. 
