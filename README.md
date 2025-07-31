@@ -77,37 +77,44 @@ const Ozturk = {
 - Teknolojiye olan ilgim yalnızca mesleki değil, aynı zamanda kişisel bir tutkudur. Bilgisayar donanımları ve sistem toplama konularında bilgi sahibiyim. Yeni donanım teknolojilerini yakından takip ediyor, bilgisayar kurulumları ve bileşen seçimi konusunda çevremdekilere danışmanlık yapıyorum. Öte yandan, dijital oyunlara özel bir ilgim var. Özellikle Blizzard Entertainment tarafından geliştirilen Diablo serisiyle uzun yıllardır ilgileniyor, bu alandaki oyun kültürünü yakından takip ediyorum.
 
 ### :computer:Eğitim / Kariyer
-- :computer:İstanbul Üniversitesi "Yönetim Bilişim Sistemleri" bölümü 2. sınıf öğrencisiyim. 
-- :computer:Atatürk Üniversitesi "Bilgisayar Programcılığı" bölümü 2. sınıf öğrencisiyim.
-- :computer:Anadolu Üniversitesi "Web Tasarımı ve Kodlama" bölümünü başarı ile tamamladım.
-- :computer:Ankara Hacı Bayram Veli Üniversitesi "Turizm İşletmeciliği" bölümü 4.sınıf öğrencisiyim.
-- :computer:DSC Ankara Hacı Bayram Veli Üniversitesi Core Team ekibinde yer almaktayım. 
-- :computer:"Full Stack Developer ve Graphic Designer" olmak için çabalıyorum. 
-- :computer:Kendimi her alanda geliştirmeye özen gösteriyorum.
-- :computer:Yazılım ve Tasarım üzerine youtube ve udemy platformları için eğitim setleri hazırlamayı hedefliyorum.
+- :computer:Gazi Üniversitesi "Yönetim Bilişim Sistemleri" yüksek lisans bölümünü başarı ile tamamladım.
+- :computer:Gazi Üniversitesi "Pedagojik Formasyon" programını başarı ile tamamlayarak; "Bilgisayar ve Öğretim Teknolojileri Öğretmeni (BÖTE)" olma hakkını kazandım.
+- :computer:İstanbul Üniversitesi "Yönetim Bilişim Sistemleri" lisans bölümü son sınıf öğrencisiyim.
+- :computer:Atatürk Üniversitesi "Grafik Sanatları" lisans bölümü 1. sınıf öğrencisiyim.
+- :computer:Anadolu Üniversitesi "Görsel İletişim Tasarım" lisans bölümü 1. sınıf öğrencisiyim. 
+- :computer:Atatürk Üniversitesi "Bilgisayar Programcılığı" ön lisans bölümünü başarı ile tamamladım.
+- :computer:Anadolu Üniversitesi "Web Tasarımı ve Kodlama" ön lisans bölümünü başarı ile tamamladım.
+- :computer:Ankara Hacı Bayram Veli Üniversitesi "Turizm İşletmeciliği" lisans bölümünü başarı ile tamamladım.
+- :computer:Google Developer Student Clubs (DSC) - AHBV Üniversitesi Core Team ekibinde aktif görev alıyorum.
+- :computer:Full Stack Developer ve Grafik Tasarım Uzmanı olma hedefiyle disiplinli bir şekilde çalışıyorum.
+- :computer:Teknolojiyi yakından takip ederek, kendimi hem yazılım hem de tasarım alanında çok yönlü geliştirmeye özen gösteriyorum.
+- :computer:Yazılım ve tasarım odaklı Udemy ve YouTube kanalım için özgün eğitim içerikleri üretmekteyim.
 
 
 ### 🔭 Kendimi Geliştirme Adına Yaptıklarım!
-- 🔭 Web projeleri yapmayı seviyorum. Çünkü interneti seviyorum! 
-- 🔭 Şu anda yazılım tarafında "HTML, CSS, JavaScript ,Php, SQL, Python" gibi dilerde uzmanlaşmaya çalışıyorum.
-- 🔭 Tasarım tarafında ise; "Adobe photoshop, Adobe İllustrator, Adobe İndesing ve Canva" gibi programlarda ustalaşmaya çalışıyorum.
-- 🔭 Ayrıca yazılımın yanında web sitesi yapmayı sağlayan "wordpress, blogger, wix, weebly" gibi platformları kullanarak web sitesi projeleri yapıyorum.
-- 🔭 Sektör tecrübesi kazanmak için bionluk ve fiverr gibi platformlarda web design / graphic design üzerine iş yapmaktayım.
-- 🔭 Son olarak youtube kanalım ve ilerde udemy platformu için hazırlayacağım eğitim setleri için kendimi sürekli geliştirmeye çalışıyorum.
+- 🔭 Web projeleri üretmekten keyif alıyorum çünkü bilişim dünyasının sınırsız olanaklarına hayranım. 
+- 🔭 Yazılım alanında HTML, CSS, JavaScript, PHP, SQL, Python gibi dillerde uzmanlaşmak için aktif öğrenme sürecindeyim.
+- 🔭 Tasarım tarafında Adobe Photoshop, Adobe Illustrator, Adobe InDesign, Figma ve Canva gibi araçlarda profesyonel düzeyde beceriler kazanıyorum.
+- 🔭 Aynı zamanda WordPress, Blogger, Wix, Weebly gibi platformlarla dinamik ve kullanıcı dostu web siteleri geliştiriyorum.
+- 🔭 Freelance deneyimi kazanmak adına Bionluk ve Fiverr platformlarında web tasarımı ve grafik tasarım üzerine projeler tamamlıyorum.
+- 🔭 Yazılım projelerimi GitHub üzerinde versiyon kontrolüyle paylaşıyor, sürekli güncel tutuyorum.
+- 🔭 YouTube kanalımda yazılım, tasarım ve dijital üretkenlik üzerine eğitim içerikleri paylaşmayım. Udemy için ise detaylı kurslar oluşturmaktayım.
+- 🔭 UI/UX prensiplerine uygun modern arayüzler geliştirerek hem kullanıcı deneyimini hem de estetik tasarımı ön planda tutuyorum.
 
 ### 🎧 Hobilerim!
-- 🎧 Eğlenceli gerçek: Müzik dinlemeyi seviyorum.
-- 🎧 Bol bol Fantastik ve Bilim Kurgu temalı kitap okumayı seviyorum.
-- 🎧 Sabah yürüyüşü yapmayı severim.
-- 🎧 Yüzme sporu vazgeçilmez eğlencelerimden biri.
-- 🎧 Marvel/DC evrenlerinin hastasıyım bu yüzden çizgi roman okumayı seviyorum. Hayal güvümün gelişmesini sağlıyor.
-- 🎧 Resim yapmaktan büyük keyif alıyorum. Özellikle karakter tasarımı üzerine çalışmaktan.
-- 🎧 Boş zamanlarımda film ve dizi izlemeyi severim. Favori filmim "Lord of the Rings" favori dizilerim ise; "Mr.Robot ve Supernatural" dır.
+- 🎧 Müziğe tutkuyla bağlıyım; gün içinde ruh halime göre farklı türlerde müzikler dinlemek bana ilham veriyor.
+- 🎧 Özellikle fantastik ve bilim kurgu türündeki kitapları okumaktan büyük keyif alıyorum.
+- 🎧 Güne zinde başlamak için sabah yürüyüşleri yaparım, doğayla iç içe olmak beni motive eder.
+- 🎧 Yüzme, fiziksel ve zihinsel olarak rahatlamamı sağlayan vazgeçilmez aktivitelerimdendir.
+- 🎧 Marvel ve DC evrenlerini yakından takip eder, çizgi roman okumayı bir tutku olarak görürüm.
+- 🎧 Karakter tasarımı üzerine çizim yapmayı, hayal gücümü kağıda dökmeyi çok seviyorum.
+- 🎧 Boş zamanlarımda kaliteli film ve diziler izlerim. Favori filmim "The Lord of the Rings", favori dizilerim ise "Mr. Robot" ve "Supernatural".
+- 🎧 Dijital sanat, 3D modelleme ve karakter animasyonu konularında da ilgim var, bu alanlarda da kendimi geliştirmeyi planlıyorum.
 
 ### 📫 Bana Ulaşmak İsterseniz!
 - 📫 Bana ulaşmak isterseniz **berkemertozturk1997@gmail.com** adresini kullanabilirsiniz. 
 - 📫 Sosyal Medya üzerinden bana ulaşmak isterseniz **https://linktr.ee/StarLordBerke** adresini kullanabilirsiniz.
-- 📫 Web üzerinden bana ulaşmak isterseniz **https://berkemertozturk97.blogspot.com/** web sitemide kullanabilirsiniz.
+- 📫 Web üzerinden bana ulaşmak isterseniz **https://www.sibermega.com.tr/** web sitemide kullanabilirsiniz.
 
 ### 🤝 Ayrıca Youtube Kanalımı Ziyaret Edebilirsiniz!
 - 🤝 Ayrıca yazılım, tasarım, teknoloji ve eğitim üzerine içerik ürettiğim bir youtube kanalım var. Kanalımın adı "Game Mega" **https://www.youtube.com/c/GameMega** takip etmeyi unutmayın.
