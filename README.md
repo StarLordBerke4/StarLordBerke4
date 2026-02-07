@@ -70,9 +70,9 @@ const Ozturk = {
 
 ### 🔭 Benim Hakkımda
 
-- İstanbul Üniversitesi "Yönetim Bilişim Sistemleri (MIS)" lisans mezunuyum. Eğitim sürecimi Gazi Üniversitesi’nde "Pedagojik Formasyon" eğitimimi tamamlayarak taçlandırdım ve "Bilgisayar ve Öğretim Teknolojileri (BÖTE)" öğretmeni unvanını kazandım.
+- İstanbul Üniversitesi "Yönetim Bilişim Sistemleri (MIS)" lisans mezunuyum. Eğitim sürecimi Gazi Üniversitesi’nde "Pedagojik Formasyon" eğitimimi tamamlayarak taçlandırdım ve "Bilgisayar ve Öğretim Teknolojileri (BÖTE)" öğretmeni unvanını kazandım. Mesleki odağımı; web geliştirme, UI/UX tasarımı ve grafik tasarım alanlarında yoğunlaştırarak hem teknik hem de görsel yönü güçlü, modern teknolojilerle harmanlanmış projeler üretmeye odaklanıyorum.
 
-- Mesleki odağımı; web geliştirme, UI/UX tasarımı ve grafik tasarım alanlarında yoğunlaştırarak hem teknik hem de görsel yönü güçlü, modern teknolojilerle harmanlanmış projeler üretmeye odaklanıyorum. Yazılım ve tasarımı bir araya getiren disiplinler arası yaklaşımları benimsiyor; proje yönetimi, içerik üretimi, sosyal medya yönetimi, SEO ve WordPress altyapılı sistemler üzerinde aktif olarak çalışıyorum. Öğrenmeye açık, çözüm odaklı ve takım çalışmasına yatkın bir yapıya sahibim.
+- Yazılım ve tasarımı bir araya getiren disiplinler arası yaklaşımları benimsiyor; proje yönetimi, içerik üretimi, sosyal medya yönetimi, SEO ve WordPress altyapılı sistemler üzerinde aktif olarak çalışıyorum. Öğrenmeye açık, çözüm odaklı ve takım çalışmasına yatkın bir yapıya sahibim.
 
 - Teknoloji benim için sadece bir meslek değil, aynı zamanda büyük bir tutkudur. Bilgisayar donanımları ve sistem toplama konusundaki derin bilgimi, yeni nesil donanım teknolojilerini takip ederek güncel tutuyor; bu alanda çevreme danışmanlık veriyorum. Öte yandan, dijital oyun kültürüyle de yakından ilgileniyorum. Özellikle Blizzard Entertainment tarafından geliştirilen Diablo serisini uzun yıllardır takip ediyor, oyun dünyasının dinamiklerini profesyonel bir ilgiyle izliyorum.
 
